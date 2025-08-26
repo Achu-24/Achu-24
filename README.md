@@ -1,7 +1,7 @@
 ### Hey all 👋
 
-<h5>I’m Hamshaverthini, a 2nd-year B.Tech CSE (SPE) student, passionate about exploring technology.
-Aspiring to discover new things and grow through continuous learning and innovation.</h5>
+<h3>I’m Hamshaverthini, a 2nd-year B.Tech CSE (SPE) student, passionate about exploring technology.
+Aspiring to discover new things and grow through continuous learning and innovation.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
