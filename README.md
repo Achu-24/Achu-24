@@ -1,6 +1,6 @@
 ### Hey all 👋
 
-I’m Hamshaverthini, a 2nd-year B.Tech CSE (SPE) student, passionate about exploring technology.
+I’m Hamshaverthini, a 2nd-year B.Tech CSE (Software Product Engineering) student, passionate about exploring technology.
 Aspiring to discover new things and grow through continuous learning and innovation.
 
 ---
@@ -10,15 +10,15 @@ Aspiring to discover new things and grow through continuous learning and innovat
 
 - 🔭 I’m currently working on [AI Smart Travel Planner](https://github.com/kalviumcommunity/travel-planner.git)
 
-- 🌱 I’m currently learning **Frameworks, new languages**
+- 🌱 I’m currently learning **Frameworks, basics of new programming languages**
 
 - 💬 Ask me about **Frontend, backend, database**
 
 - 📫 How to reach me **hamshaverthinik@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/15_K6vvxE3R0sgO30Fm3hh4xzXrdIC0m9/edit?usp=sharing&ouid=108633236229182945224&rtpof=true&sd=true](https://docs.google.com/document/d/15_K6vvxE3R0sgO30Fm3hh4xzXrdIC0m9/edit?usp=sharing&ouid=108633236229182945224&rtpof=true&sd=true)
+- 📄 Know about my experiences- (https://docs.google.com/document/d/15_K6vvxE3R0sgO30Fm3hh4xzXrdIC0m9/edit?usp=sharing&ouid=108633236229182945224&rtpof=true&sd=true)
 
-- ⚡ Fun fact **I think I am a humorous person.**
+- ⚡ Fun fact- **I think I am a humorous person.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
