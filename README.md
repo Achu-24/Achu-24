@@ -1,30 +1,31 @@
 ### Hey all 👋
 
-I’m Hamshaverthini, a 2nd-year B.Tech CSE (Software Product Engineering) student, passionate about exploring technology.
-Aspiring to discover new things and grow through continuous learning and innovation.
+I’m **Hamshaverthini**, a **2nd-year B.Tech CSE (Software Product Engineering)** student, passionate about exploring technology.  
+Aspiring to **discover new things** and grow through continuous learning and innovation. 🚀
 
 ---
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
-- 🔭 I’m currently working on [AI Smart Travel Planner](https://github.com/kalviumcommunity/travel-planner.git)
-
+- 🔭 I’m currently working on [AI Smart Travel Planner](https://github.com/kalviumcommunity/travel-planner.git) ✈️ A web app that helps users plan trips using AI.
+  
 - 🌱 I’m currently learning **Frameworks, basics of new programming languages**
 
 - 💬 Ask me about **Frontend, backend, database**
 
 - 📫 How to reach me **hamshaverthinik@gmail.com**
 
-- 📄 Know about my experiences- (https://docs.google.com/document/d/15_K6vvxE3R0sgO30Fm3hh4xzXrdIC0m9/edit?usp=sharing&ouid=108633236229182945224&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/15_K6vvxE3R0sgO30Fm3hh4xzXrdIC0m9/edit?usp=sharing)
+
 
 - ⚡ Fun fact- **I think I am a humorous person.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/k hamsha verthini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="k hamsha verthini" height="30" width="40" /></a>
-<a href="https://www.behance.net/hamsha verthini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="hamsha verthini" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/k hamsha verthini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="k hamsha verthini" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/khamshaverthini" target="blank">
+<a href="https://www.behance.net/hamshaverthini" target="blank">
+<a href="https://leetcode.com/khamshaverthini" target="blank">
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
