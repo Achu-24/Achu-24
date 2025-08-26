@@ -23,9 +23,9 @@ Aspiring to **discover new things** and grow through continuous learning and inn
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/k hamsha verthini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="k hamsha verthini" height="30" width="40" /></a>
-<a href="https://www.behance.net/hamsha verthini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="hamsha verthini" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/k hamsha verthini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="k hamsha verthini" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hamshaverthini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="k hamsha verthini" height="30" width="40" /></a>
+<a href="https://www.behance.net/hamshaverthini_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="hamsha verthini" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/QSvzGhUPOV/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="k hamsha verthini" height="30" width="40" /></a>
 </p>
 
 ---
